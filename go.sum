@@ -1,0 +1,4 @@
+github.com/applicaset/sms-svc v0.0.0-20201219100929-3d3b04b364e3 h1:QZL9mO1nWZIhC7ibIpWUT42PuAJa0TQXdCoJMvp0JxM=
+github.com/applicaset/sms-svc v0.0.0-20201219100929-3d3b04b364e3/go.mod h1:wAvAa7gSPWKIcVQnXTkrZGwiji8Tspp+Rj4E0k7LK3Q=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
